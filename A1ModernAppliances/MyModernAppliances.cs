@@ -22,14 +22,14 @@ namespace ModernAppliances
         public override void Checkout()
         {
             // Write "Enter the item number of an appliance: "
-            Console.WriteLine("Enter the item number of an appliance: ");
+            Console.WriteLine("\nEnter the item number of an appliance: ");
 
             // Create long variable to hold item number
             long itemNumber;
 
             // Get user input as string and assign to variable.
             string userInput = Console.ReadLine();
-
+            Console.WriteLine();
             // Convert user input from string to long and store as item number variable.
             itemNumber = long.Parse(userInput);
 
@@ -80,11 +80,12 @@ namespace ModernAppliances
         public override void Find()
         {
             // Write "Enter brand to search for:"
-            Console.WriteLine("Enter brand to search for: ");
+            Console.WriteLine("\nEnter brand to search for: ");
 
             // Create string variable to hold entered brand
             // Get user input as string and assign to variable.
             string userBrand = Console.ReadLine();
+            Console.WriteLine();
 
             // Create list to hold found Appliance objects
             List<Appliance> foundAppliancesList = new List<Appliance>();
@@ -119,7 +120,7 @@ namespace ModernAppliances
             Console.WriteLine("0 - Any");
             Console.WriteLine("2 - Double doors");
             Console.WriteLine("3 - Three doors");
-            Console.WriteLine("4 - Four doors");
+            Console.WriteLine("4 - Four doors\n");
 
             // Write "Enter number of doors: "
             Console.WriteLine("Enter number of doors: ");
@@ -128,7 +129,7 @@ namespace ModernAppliances
             // Get user input as string and assign to variable
             // Convert user input from string to int and store as number of doors variable.
             int numDoors = int.Parse(Console.ReadLine());
-
+            Console.WriteLine();
             // Create list to hold found Appliance objects
             List<Appliance> foundFridgeList = new List<Appliance>();
 
@@ -171,11 +172,12 @@ namespace ModernAppliances
             Console.WriteLine("Possible options:");
             Console.WriteLine("0 - Any");
             Console.WriteLine("1 - Residential");
-            Console.WriteLine("2 - Commercial");
+            Console.WriteLine("2 - Commercial\n");
             Console.WriteLine("Enter grade:");
 
             // Get user input as string and assign to variable
             string userType = Console.ReadLine();
+            Console.WriteLine();
 
             // Create grade variable to hold grade to find (Any, Residential, or Commercial)
             string grade = null;
@@ -216,12 +218,13 @@ namespace ModernAppliances
             Console.WriteLine("Possible options:");
             Console.WriteLine("0 - Any");
             Console.WriteLine("1 - 18 Volt");
-            Console.WriteLine("2 - 24 Volt");
+            Console.WriteLine("2 - 24 Volt\n");
             Console.WriteLine("Enter voltage:");
             // Get user input as string
             // Create variable to hold voltage
             string userVolt = Console.ReadLine();
             int voltage;
+            Console.WriteLine();
 
             // Test input is "0"
             // Assign 0 to voltage
@@ -290,11 +293,12 @@ namespace ModernAppliances
             // Write "Enter room type:"
             Console.WriteLine("0 - Any");
             Console.WriteLine("1 - Kitchen");
-            Console.WriteLine("2 - Work site");
+            Console.WriteLine("2 - Work site\n");
             Console.WriteLine("Enter room type:");
 
             // Get user input as string and assign to variable
             string userRoom = Console.ReadLine();
+            Console.WriteLine();
 
             // Create character variable that holds room type
             char roomType = ' ';
@@ -368,11 +372,12 @@ namespace ModernAppliances
             Console.WriteLine("1 - Quietest");
             Console.WriteLine("2 - Quieter");
             Console.WriteLine("3 - Quiet");
-            Console.WriteLine("4 - Moderate");
+            Console.WriteLine("4 - Moderate\n");
             Console.WriteLine("Enter sound rating");
 
             // Get user input as string and assign to variable
             string userSound = Console.ReadLine();
+            Console.WriteLine();
 
             // Create variable that holds sound rating
             string soundRating = null;
@@ -470,6 +475,7 @@ namespace ModernAppliances
 
             // Get user input as string and assign to variable
             string userNum = Console.ReadLine();
+            Console.WriteLine();
 
             // Convert user input from string to int
             int uNum = int.Parse(userNum);

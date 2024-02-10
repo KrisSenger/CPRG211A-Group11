@@ -82,16 +82,17 @@ namespace ModernAppliances
         /// </summary>
         public void DisplayType()
         {
-            Console.WriteLine("Appliance Types");
+            Console.WriteLine("\nAppliance Types");
             Console.WriteLine("1 – Refrigerators");
             Console.WriteLine("2 – Vacuums");
             Console.WriteLine("3 – Microwaves");
-            Console.WriteLine("4 – Dishwashers");
+            Console.WriteLine("4 – Dishwashers\n");
 
             Console.WriteLine("Enter type of appliance:");
 
             int applianceTypeNum;
             bool parsedApplianceType = int.TryParse(Console.ReadLine(), out applianceTypeNum);
+            Console.WriteLine();
 
             if (!parsedApplianceType || applianceTypeNum < 0 || applianceTypeNum > 4)
             {
