@@ -1,0 +1,15 @@
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\jahsa\Documents\SAIT Winter 2024\CPRG 211 - OOP\Assignments\Assignment 1\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
