@@ -348,7 +348,7 @@ namespace ModernAppliances
         {
             if (appliances.Count > 0)
             {
-                Console.WriteLine("Found appliances:");
+                Console.WriteLine("Matching appliances:");
                 Console.WriteLine();
 
                 // Display found appliances until either end of list is reached or number of appliances requested is shown.
