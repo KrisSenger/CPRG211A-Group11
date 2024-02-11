@@ -9,11 +9,13 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace ModernAppliances
 {
-    /// <summary>
-    /// Manager class for Modern Appliances
-    /// </summary>
-    /// <remarks>Author: </remarks>
-    /// <remarks>Date: </remarks>
+    /// Description: Manager class for Modern Appliances.
+    ///     - Method for checking out an item with checks against item number and available stock.
+    ///     - Display methods to display the different appliance types and sort by parameters
+    ///     - Search by brand method, to return all results from brand specified by user
+    ///     - Method to return a random number of appliances based on user number input.
+    /// Authors: Jacqueline Duong, Josh Larue, Kris Senger and Michelle Tran
+    /// Date: February 10, 2024
     internal class MyModernAppliances : ModernAppliances
     {
         /// <summary>
@@ -59,7 +61,6 @@ namespace ModernAppliances
             // Otherwise (appliance was found)
             // Test found appliance is available
             // Checkout found appliance
-
             // Write "Appliance has been checked out."
             // Otherwise (appliance isn't available)
             // Write "The appliance is not available to be checked out."
